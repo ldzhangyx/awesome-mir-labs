@@ -4,6 +4,8 @@ A full collection of Music Informatic Retrieval (MIR) and AI Music labs. It is f
 
 Please open a PR to add or update the lab information. It is also welcomed to post PhD hiring messages in the disscussion forum.
 
+## Active Labs
+
 | Name | Affiliation | Country/Region | PI | Notes |
 | --- | --- | --- | --- | --- |
 | [Laboratory of Computational Intelligence](http://labic.icmc.usp.br/) | [U. of São Paulo](https://www.usp.br/) and [Institute of Mathematics and Computer Sciences](https://www.icmc.usp.br/) | BR | Diego Furtado Silva | Research areas: MIR, Representation Learning, Multimodal approaches.
@@ -87,10 +89,15 @@ Sound Interaction and Computing (SInC) Lab | [New Jersey Institute of Technology
 [New Lab](https://hermandong.com/) | University of Michigan | USA | Hao-wen Dong | AP from 2024. Music generation. Selected pubs: MuseGAN.
 [New Lab](https://johnthickstun.com/) | Cornell University | USA | John Thickstun | AP from 2024. Selected pubs: MusicNet, Anticipatory Music Transformer.
 
+## Inactive Labs
+
+| Name | Affiliation | Country/Region | PI | Notes |
+| --- | --- | --- | --- | --- |
 
 # To-do
 
 - [ ] Map view
+- [ ] Filter out inactive labs (>5 years no MIR publication or new student)
 
 
 # References
