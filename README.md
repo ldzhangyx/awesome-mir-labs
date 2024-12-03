@@ -6,10 +6,10 @@ Please open a PR to add or update the lab information. It is also welcomed to po
 
 ## Active Labs
 
-| Name | Affiliation | Country/Region | PI | Notes |
-| --- | --- | --- | --- | --- |
-| [Laboratory of Computational Intelligence](http://labic.icmc.usp.br/) | [U. of São Paulo](https://www.usp.br/) and [Institute of Mathematics and Computer Sciences](https://www.icmc.usp.br/) | BR | Diego Furtado Silva | Research areas: MIR, Representation Learning, Multimodal approaches.
-| [Pattern Recognition and Artificial Intelligence Group (PRAIG)](https://praig.ua.es/) | [U. of Alicante](https://www.ua.es/) | ES | Jorge Calvo Zaragoza | Optical Music Recognition experts. MuRET tool developers. Research areas: OMR, Audio-to-Score, Multimodal approaches.
+| Name | Affiliation | Country/Region | PI | Notes | 
+| --- | --- | --- | --- | --- | 
+ [Laboratory of Computational Intelligence](http://labic.icmc.usp.br/) | [U. of São Paulo](https://www.usp.br/) and [Institute of Mathematics and Computer Sciences](https://www.icmc.usp.br/) | BR | Diego Furtado Silva | Research areas: MIR, Representation Learning, Multimodal approaches.
+ [Pattern Recognition and Artificial Intelligence Group (PRAIG)](https://praig.ua.es/) | [U. of Alicante](https://www.ua.es/) | ES | Jorge Calvo Zaragoza | Optical Music Recognition experts. MuRET tool developers. Research areas: OMR, Audio-to-Score, Multimodal approaches.
 [Music and Sound Cultures (MaSC)](https://masc.hosting.nyu.edu) | [New York University Abu Dhabi](https://nyuad.nyu.edu/en/) | AE | Carlos Guedes
 [Music X Lab](http://www.musicxlab.com) | [MBZUAI](https://mbzuai.ac.ae/) | AE | Gus Xia | Selected pubs: POP909 dataset, PianoTree VAE, Full song generation.
 [Centre for Systematic Musicology](https://systematische-musikwissenschaft.uni-graz.at/) | [U. of Graz](https://www.uni-graz.at/en/) | AT | Richard Parncutt
@@ -23,13 +23,14 @@ Please open a PR to add or update the lab information. It is also welcomed to po
 [Mistic](https://www.mistic.ece.uvic.ca) | [University of Victoria](https://www.uvic.ca/) | CA | George Tzanetakis
 [Metacreation Lab](https://www.metacreation.net/home) | Simon Fraser University | CA | Philippe Pasquier
 [Digital and Cognitive Musicology Lab (DCML)](https://www.epfl.ch/labs/dcml) | [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/) | CH | Martin Rohrmeier
-[Music AI PhD Program](https://www.ccom.edu.cn/jgk/jxdw/ylrgznyylxxkjx.htm) | [Central Conservatory of Music (CCOM)](https://www.ccom.edu.cn/) | CN | Feng Yu
+[Music AI PhD Program](https://www.ccom.edu.cn/jgk/jxdw/ylrgznyylxxkjx.htm) | [Central Conservatory of Music (CCOM)](https://www.ccom.edu.cn/) | CN | Feng Yu 
 BLACK BOX | [German Research Center for AI (DFKI)](https://www.dfki.de/en/web) | DE | Stephan Baumann
 [Gotham Lab](https://www.musik.tu-dortmund.de/institut/personen/professorinnen-und-professoren/univ-prof-dr-phil-mark-r-h-gotham/) | [T.U. Dortmund](https://www.tu-dortmund.de/) | DE | Mark Gotham
 [Institute for Music Informatics and Musicology](https://www.hfm-karlsruhe.de/en/university/institutes/institute-music-informatics-and-musicology) | [U. of Music, Karlsruhe](https://www.hfm-karlsruhe.de/en) | DE | Thomas Seedorf
 [International Audio Laboratories Erlangen](http://www.audiolabs-erlangen.de/) | [FAU](http://www.fau.eu/) and [Fraunhofer IIS](http://www.iis.fraunhofer.de/en.html), Erlangen | DE | Meinard Müller | Development of audio and multimedia technologies
 Semantic Music Technologies | [Fraunhofer Institute for Digital Media Technology](https://www.idmt.fraunhofer.de/en/business_units/m2d/research.html) | DE | Hanna Lukashevich
 [Special Interest Group on Music Analysis](http://sig-ma.de/) | (N/A) | DE | (N/A)
+[Computational Humanities (CH) group](https://www.caidas.uni-wuerzburg.de/ch/) | Universität Würzburg | DE | Christof Weiß
 [Music Informatics and Cognition Group](https://vbn.aau.dk/en/organisations/the-music-informatics-and-cognition-group), [CREATE](https://www.create.aau.dk)| [Aalborg U.](https://www.en.aau.dk/) | DK | David Meredith
 [Application of Information and Communication Technologies Research Group](http://www.atic.uma.es/index_atic.html) | U. of Málaga | ES | Lorenzo J. Tardón and Isabel Barbancho Perez
 [ATIC-amuses](https://www.uma.es/atic/info/126243/infraestructuras) | [Universidad de Málaga](https://www.uma.es) | ES | Lorenzo J. Tardon / Isabel Barbancho
@@ -58,7 +59,8 @@ Arts, Culture, Ai Lab | [Royal Institute of Technology (KTH)](https://www.kth.se
 [NUS Sound and Music Computing Lab](https://smcnus.comp.nus.edu.sg) | [National University of Singapore](https://www.nus.edu.sg/) | SG | Ye Wang
 [AMAAI Lab](https://dorienherremans.com/) | [Singapore University of Technology and Design](https://sutd.edu.sg/) | SG | Dorien Herremans
 Institute of Music Science and Engineering | [King Mongkut's Institute of Technology Ladkrabang (KMITL)](https://www.kmitl.ac.th/) | TH | Pitak Thumwarin
-[Music and AI Lab](https://musicai.citi.sinica.edu.tw) | [Academia Sinica](https://www.sinica.edu.tw/en) | TWN | Yi-Hsuan Yang
+[Music and AI Lab](https://musicai.citi.sinica.edu.tw) | [Academia Sinica](https://www.sinica.edu.tw/en) | TW | Yi-Hsuan Yang
+[Music and Culture Technology Lab](https://sites.google.com/view/mctl/) | [Academia Sinica](https://www.sinica.edu.tw/en) | TW | Su Li
 [Centre for Computer Music Research (ICCMR)](http://cmr.soc.plymouth.ac.uk/index.html)  | [U. of Plymouth](https://www.plymouth.ac.uk/) | UK | Eduardo Miranda and Alexis Kirke
 [Centre for Digital Music (C4DM)](http://c4dm.eecs.qmul.ac.uk/) | [Queen Mary, U. of London](https://www.qmul.ac.uk/) | UK | Mark Sandler and Simon Dixon | C4DM is a world-leading multidisciplinary research group in the field of music and audio technology. Research ranges from record/replay equipment to the simulation and synthesis of instruments and voices, acoustic spaces, music understanding, delivery and retrieval. With a strong focus on making innovation usable, we are ideally placed to work with industry leaders in forging new business models for the music industry.
 [MIMA](https://www.sheffield.ac.uk/mima/about) | [Sheffield University](https://www.sheffield.ac.uk) | UK | Guy Brown
@@ -66,7 +68,7 @@ Institute of Music Science and Engineering | [King Mongkut's Institute of Techno
 [Music Computing and Psychology Lab](https://www.tomcollinsresearch.net) | [University of York](https://www.york.ac.uk/) | UK | Tom Collins
 [Music Informatics Research Group (MIRG)](http://mirg.city.ac.uk/) | [City U. London](https://www.city.ac.uk/) | UK | Tillman Weyde
 [Sound and Music Analysis Group (SoMA)](https://somagroup.co.uk/) | [Birmingham City University](https://www.bcu.ac.uk/) | UK | Jason Hockman, Ryan Stables
-[Augmented Instruments Lab](https://instrumentslab.org/) | [Imperial College London](https://www.imperial.ac.uk/) | UK | Andrew McPherson
+[Augmented Instruments Lab](https://instrumentslab.org/) | [Imperial College London](https://www.imperial.ac.uk/) | UK | Andrew McPherson | Moving to Imperial from Queen Mary since 2023. 
 [(Centre for) Practice and Research in Science and Music, (PRiSM)](https://www.rncm.ac.uk/research/research-centres-rncm/prism/) | [RNCM](https://www.rncm.ac.uk/) and [U. of Oxford](https://www.ox.ac.uk/) | UK | Emily Howard and Marcus du Sautoy
 [Audio Information Research (AIR) Lab](http://www2.ece.rochester.edu/projects/air) | [U. Rochester](https://www.rochester.edu/) | USA | Zhiyao Duan
 [Center for Computer Assisted Research in the Humanities, (CCARH)](http://www.ccarh.org) | [Stanford U.](https://www.stanford.edu/) | USA | Craig Sapp and Eleanor Selfridge-Field
@@ -84,10 +86,11 @@ International Music Information Retrieval Systems Evaluation Laboratory (IMIRSEL
 [Music Engagement Research Initiative (MERI)](https://ccrma.stanford.edu/groups/meri) | [Stanford University](https://www.stanford.edu/) | USA | Jonathan Berger (PI), Chris 
 [Music Informatics Group](https://musicinformatics.gatech.edu/) | [Georgia Tech School of Music](https://www.music.gatech.edu/) | USA | Alexander Lerch | Research on audio content analysis and machine learning for music as part of the MS and PhD programs in Music Technology at Georgia Tech.
 Sound Interaction and Computing (SInC) Lab | [New Jersey Institute of Technology](https://www.njit.edu/) | USA | Mark Cartwright
-[MIT Music Technology](https://musictech.mit.edu/postdoctoral-opportunities/) | [Massachusetts Institute of Technology](https://www.mit.edu/) | USA | Anna Huang
+[MIT Music Technology](https://musictech.mit.edu/postdoctoral-opportunities/) | [Massachusetts Institute of Technology](https://www.mit.edu/) | USA | Anna Huang | New phd program from 2024 and ms program from 2025.
 [COSMAL](http://dub.ucsd.edu/) | [University of California San Diego](https://ucsd.edu/) | USA | Shlomo Dubnov
 [New Lab](https://hermandong.com/) | University of Michigan | USA | Hao-wen Dong | AP from 2024. Music generation. Selected pubs: MuseGAN.
 [New Lab](https://johnthickstun.com/) | Cornell University | USA | John Thickstun | AP from 2024. Selected pubs: MusicNet, Anticipatory Music Transformer.
+[Purdue music technology research group](https://ai4musicians.org/) | Purdue University | USA | 
 
 ## Inactive Labs
 
