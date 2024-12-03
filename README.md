@@ -6,8 +6,8 @@ Please open a PR to add or update the lab information. It is also welcomed to po
 
 ## Active Labs
 
-| Name | Affiliation | Country/Region | PI | Notes | 
-| --- | --- | --- | --- | --- | 
+| Name | Affiliation | Country/Region | PI | Notes | Research Area |
+| --- | --- | --- | --- | --- | --- |
  [Laboratory of Computational Intelligence](http://labic.icmc.usp.br/) | [U. of São Paulo](https://www.usp.br/) and [Institute of Mathematics and Computer Sciences](https://www.icmc.usp.br/) | BR | Diego Furtado Silva | Research areas: MIR, Representation Learning, Multimodal approaches.
  [Pattern Recognition and Artificial Intelligence Group (PRAIG)](https://praig.ua.es/) | [U. of Alicante](https://www.ua.es/) | ES | Jorge Calvo Zaragoza | Optical Music Recognition experts. MuRET tool developers. Research areas: OMR, Audio-to-Score, Multimodal approaches.
 [Music and Sound Cultures (MaSC)](https://masc.hosting.nyu.edu) | [New York University Abu Dhabi](https://nyuad.nyu.edu/en/) | AE | Carlos Guedes
@@ -67,8 +67,10 @@ Institute of Music Science and Engineering | [King Mongkut's Institute of Techno
 [Centre for Research in New Music (CeReNeM)](https://research.hud.ac.uk/institutes-centres/cerenem/) | [U. of Huddersfield](https://www.hud.ac.uk/) | UK | Michael Clarke
 [Music Computing and Psychology Lab](https://www.tomcollinsresearch.net) | [University of York](https://www.york.ac.uk/) | UK | Tom Collins
 [Music Informatics Research Group (MIRG)](http://mirg.city.ac.uk/) | [City U. London](https://www.city.ac.uk/) | UK | Tillman Weyde
+[Centre for Vision, Speech and Signal Processing (CVSSP)](https://www.surrey.ac.uk/centre-vision-speech-signal-processing) | University of Surrey | UK | Wenwu Wang, Mark D. Plumbley| This lab is a multi-interdisciplinary, where parts of researchers work on audio processing. | Audio processing
 [Sound and Music Analysis Group (SoMA)](https://somagroup.co.uk/) | [Birmingham City University](https://www.bcu.ac.uk/) | UK | Jason Hockman, Ryan Stables
-[Augmented Instruments Lab](https://instrumentslab.org/) | [Imperial College London](https://www.imperial.ac.uk/) | UK | Andrew McPherson | Moving to Imperial from Queen Mary since 2023. 
+[Augmented Instruments Lab](https://instrumentslab.org/) | [Imperial College London](https://www.imperial.ac.uk/) | UK | Andrew McPherson | Moving to Imperial from Queen Mary since 2023. | Augmented Instruments
+[New Lab](https://nickbknickbk.github.io/) | University of the Arts London | UK | Nick Bryan-Kinns | Moving to UAL from Queen Mary since 2024. | Human-Centred AI and eXplainable AI for the Arts
 [(Centre for) Practice and Research in Science and Music, (PRiSM)](https://www.rncm.ac.uk/research/research-centres-rncm/prism/) | [RNCM](https://www.rncm.ac.uk/) and [U. of Oxford](https://www.ox.ac.uk/) | UK | Emily Howard and Marcus du Sautoy
 [Audio Information Research (AIR) Lab](http://www2.ece.rochester.edu/projects/air) | [U. Rochester](https://www.rochester.edu/) | USA | Zhiyao Duan
 [Center for Computer Assisted Research in the Humanities, (CCARH)](http://www.ccarh.org) | [Stanford U.](https://www.stanford.edu/) | USA | Craig Sapp and Eleanor Selfridge-Field
@@ -87,7 +89,9 @@ International Music Information Retrieval Systems Evaluation Laboratory (IMIRSEL
 [Music Informatics Group](https://musicinformatics.gatech.edu/) | [Georgia Tech School of Music](https://www.music.gatech.edu/) | USA | Alexander Lerch | Research on audio content analysis and machine learning for music as part of the MS and PhD programs in Music Technology at Georgia Tech.
 Sound Interaction and Computing (SInC) Lab | [New Jersey Institute of Technology](https://www.njit.edu/) | USA | Mark Cartwright
 [MIT Music Technology](https://musictech.mit.edu/postdoctoral-opportunities/) | [Massachusetts Institute of Technology](https://www.mit.edu/) | USA | Anna Huang | New phd program from 2024 and ms program from 2025.
-[COSMAL](http://dub.ucsd.edu/) | [University of California San Diego](https://ucsd.edu/) | USA | Shlomo Dubnov
+[COSMAL](http://dub.ucsd.edu/) | [University of California San Diego](https://.edu/) | USA | Shlomo Dubnov
+[BergLab](https://icebergnlp.github.io/) | | [University of California San Diego](https://.edu/) | USA | Taylor Berg-Kirkpatrick
+[-](https://cseweb.ucsd.edu/~jmcauley/) |  [University of California San Diego](https://.edu/) | USA | Julian McAuley | It is not a MIR-specific lab.
 [New Lab](https://hermandong.com/) | University of Michigan | USA | Hao-wen Dong | AP from 2024. Music generation. Selected pubs: MuseGAN.
 [New Lab](https://johnthickstun.com/) | Cornell University | USA | John Thickstun | AP from 2024. Selected pubs: MusicNet, Anticipatory Music Transformer.
 [Purdue music technology research group](https://ai4musicians.org/) | Purdue University | USA | 
