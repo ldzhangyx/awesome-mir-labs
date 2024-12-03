@@ -44,6 +44,7 @@ Semantic Music Technologies | [Fraunhofer Institute for Digital Media Technology
 [Institut de Recherche en Informatique de Toulouse (IRIT)](https://www.irit.fr/) | Toulouse | FR | | The [SAMoVA](https://www.irit.fr/recherches/SAMOVA/pagehome.html) team focuses its research activities mainly on audiovisual content structuring, analysis and modeling. The [MELODI](https://www.irit.fr/-Equipe-MELODI-) team focuses on natural language processing.
 [Laboratoire Bordelais de Recherche en Informatique (LaBRI)](http://www.labri.fr/) and [Studio de Création Musical (SCRIME)](http://www.scrime.labri.fr/) | Bordeaux | FR | | Part of the French CNRS. The first research interest implies music information retrieval for enhancing music recommendations and automatic playlist creation. The second research interest involve creating new ways to play music interactively which is supported in the free and open-source intermedia sequencer [i-score](https://i-score.org/).
 [Laboratory of Digital Sciences of Nantes (LS2N)](https://www.ls2n.fr/presentation/?lang=en) | [The French National Center for Scientific Research (CNRS)](https://www.cnrs.fr/en/cnrs) | FR | Mathieu Lagrange, Vincent Lostanlen
+[-](https://qiuqiangkong.github.io/) | Chinese University of Hong Kong (CUHK) | HK | Qiuqiang Kong | New AP from 2024. Pubs: PANNS, GiantMIDI-Piano. |
 McDermott Group | [School of Computer Science, University of Galway](https://www.universityofgalway.ie/science-engineering/school-of-computer-science/) | IE | [James McDermott](http://www.jmmcd.net/research) | Generative music, evolutionary algorithms, music information retrieval, traditional music.
 [Digital Audio Processing Lab](https://www.ee.iitb.ac.in/student/~daplab) | [I.I.T. Bombay](https://www.iitb.ac.in/) | IN | Preeti Rao
 [Music Informatics Laboratory (LIM), Dept. of Computer Science](https://www.lim.di.unimi.it) | [U. of Milan](https://www.unimi.it/en) | IT | Goffredo Haus
@@ -70,7 +71,7 @@ Institute of Music Science and Engineering | [King Mongkut's Institute of Techno
 [Centre for Vision, Speech and Signal Processing (CVSSP)](https://www.surrey.ac.uk/centre-vision-speech-signal-processing) | University of Surrey | UK | Wenwu Wang, Mark D. Plumbley| This lab is a multi-interdisciplinary, where parts of researchers work on audio processing. | Audio processing
 [Sound and Music Analysis Group (SoMA)](https://somagroup.co.uk/) | [Birmingham City University](https://www.bcu.ac.uk/) | UK | Jason Hockman, Ryan Stables
 [Augmented Instruments Lab](https://instrumentslab.org/) | [Imperial College London](https://www.imperial.ac.uk/) | UK | Andrew McPherson | Moving to Imperial from Queen Mary since 2023. | Augmented Instruments
-[New Lab](https://nickbknickbk.github.io/) | University of the Arts London | UK | Nick Bryan-Kinns | Moving to UAL from Queen Mary since 2024. | Human-Centred AI and eXplainable AI for the Arts
+[-](https://nickbknickbk.github.io/) | University of the Arts London | UK | Nick Bryan-Kinns | Moving to UAL from Queen Mary since 2024. | Human-Centred AI and eXplainable AI for the Arts
 [(Centre for) Practice and Research in Science and Music, (PRiSM)](https://www.rncm.ac.uk/research/research-centres-rncm/prism/) | [RNCM](https://www.rncm.ac.uk/) and [U. of Oxford](https://www.ox.ac.uk/) | UK | Emily Howard and Marcus du Sautoy
 [Audio Information Research (AIR) Lab](http://www2.ece.rochester.edu/projects/air) | [U. Rochester](https://www.rochester.edu/) | USA | Zhiyao Duan
 [Center for Computer Assisted Research in the Humanities, (CCARH)](http://www.ccarh.org) | [Stanford U.](https://www.stanford.edu/) | USA | Craig Sapp and Eleanor Selfridge-Field
@@ -92,8 +93,8 @@ Sound Interaction and Computing (SInC) Lab | [New Jersey Institute of Technology
 [COSMAL](http://dub.ucsd.edu/) | [University of California San Diego](https://.edu/) | USA | Shlomo Dubnov
 [BergLab](https://icebergnlp.github.io/) | | [University of California San Diego](https://.edu/) | USA | Taylor Berg-Kirkpatrick
 [-](https://cseweb.ucsd.edu/~jmcauley/) |  [University of California San Diego](https://.edu/) | USA | Julian McAuley | It is not a MIR-specific lab.
-[New Lab](https://hermandong.com/) | University of Michigan | USA | Hao-wen Dong | AP from 2024. Music generation. Selected pubs: MuseGAN.
-[New Lab](https://johnthickstun.com/) | Cornell University | USA | John Thickstun | AP from 2024. Selected pubs: MusicNet, Anticipatory Music Transformer.
+[-](https://hermandong.com/) | University of Michigan | USA | Hao-wen Dong | AP from 2024. Music generation. Selected pubs: MuseGAN.
+[-](https://johnthickstun.com/) | Cornell University | USA | John Thickstun | AP from 2024. Selected pubs: MusicNet, Anticipatory Music Transformer.
 [Purdue music technology research group](https://ai4musicians.org/) | Purdue University | USA | 
 
 ## Inactive Labs
