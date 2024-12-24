@@ -60,7 +60,7 @@ Arts, Culture, Ai Lab | [Royal Institute of Technology (KTH)](https://www.kth.se
 [NUS Sound and Music Computing Lab](https://smcnus.comp.nus.edu.sg) | [National University of Singapore](https://www.nus.edu.sg/) | SG | Ye Wang
 [AMAAI Lab](https://dorienherremans.com/) | [Singapore University of Technology and Design](https://sutd.edu.sg/) | SG | Dorien Herremans
 Institute of Music Science and Engineering | [King Mongkut's Institute of Technology Ladkrabang (KMITL)](https://www.kmitl.ac.th/) | TH | Pitak Thumwarin
-[Music and AI Lab](https://musicai.citi.sinica.edu.tw) | [Academia Sinica](https://www.sinica.edu.tw/en) | TW | Yi-Hsuan Yang
+[Music and AI Lab](https://affige.github.io/lab.html) | [National Taiwan University](https://www.ntu.edu.tw/english/) | TW | Yi-Hsuan Yang
 [Music and Culture Technology Lab](https://sites.google.com/view/mctl/) | [Academia Sinica](https://www.sinica.edu.tw/en) | TW | Su Li
 [Centre for Computer Music Research (ICCMR)](http://cmr.soc.plymouth.ac.uk/index.html)  | [U. of Plymouth](https://www.plymouth.ac.uk/) | UK | Eduardo Miranda and Alexis Kirke
 [Centre for Digital Music (C4DM)](http://c4dm.eecs.qmul.ac.uk/) | [Queen Mary, U. of London](https://www.qmul.ac.uk/) | UK | Mark Sandler and Simon Dixon | C4DM is a world-leading multidisciplinary research group in the field of music and audio technology. Research ranges from record/replay equipment to the simulation and synthesis of instruments and voices, acoustic spaces, music understanding, delivery and retrieval. With a strong focus on making innovation usable, we are ideally placed to work with industry leaders in forging new business models for the music industry.
